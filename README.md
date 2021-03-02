@@ -1,31 +1,17 @@
 ### Hi there 👋
 
-<!--
-**thivalls/thivalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 ==========================================================================================================================================
 
 
-My name is Thiago Valls Bertolino. I work as a Java Developer | Fullstrack Developer at ZUP Innovation.
+My name is Thiago Valls Bertolino. I work as a Java Backend Developer at ZUP Innovation.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thivalls&repo=thivalls&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=green)&nbsp;![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&color=green)&nbsp;![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;  
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&color=orange)&nbsp;![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&color=orange)&nbsp;  
-![](https://img.shields.io/badge/--05122A?style=flat&color=gray)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;  
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&color=orange)&nbsp;![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&color=orange)&nbsp;![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&color=orange)&nbsp;  
+<!-- ![](https://img.shields.io/badge/--05122A?style=flat&color=gray)&nbsp;  -->
 
 
 ### Analytics ⚙️
