@@ -20,7 +20,7 @@ My name is Thiago Valls Bertolino. I work as a Java Backend Developer at ZUP Inn
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thivalls&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thivalls&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thivalls&hide_border=false)
 
 ### Let's connect? 🤝
 
